@@ -1,4 +1,4 @@
-# javascript-mobile-desktop-geolocation
+##javascript-mobile-desktop-geolocation
 =====================================
 
 Mobile and Desktop Javascript Library for Geolocation Fallback. Based on geo-location-javascript framework (http://code.google.com/p/geo-location-javascript).
@@ -70,9 +70,9 @@ Then you have got to declare an array with the simulated locations this way:
 ~~~ 
 
 For further examples of these you can check example files:
-* [demo-no-simulation.html](https://github.com/estebanav/javascript-mobile-desktop-geolocation/blob/master/demo-no-simulation.html) -- 'Geolocate with no simulation'
-* [demo-no-simulation-gmap.html](https://github.com/estebanav/javascript-mobile-desktop-geolocation/blob/master/demo-no-simulation-gmap.html) -- 'Geolocate with no simulation with Google Maps'
-* [demo-simulation.html](https://github.com/estebanav/javascript-mobile-desktop-geolocation/blob/master/demo-simulation.html) -- 'Geolocate with simulation'
+! [demo-no-simulation.html](https://github.com/estebanav/javascript-mobile-desktop-geolocation/blob/master/demo-no-simulation.html) -- 'Geolocate with no simulation'
+  [demo-no-simulation-gmap.html](https://github.com/estebanav/javascript-mobile-desktop-geolocation/blob/master/demo-no-simulation-gmap.html) -- 'Geolocate with no simulation with Google Maps'
+! [demo-simulation.html](https://github.com/estebanav/javascript-mobile-desktop-geolocation/blob/master/demo-simulation.html) -- 'Geolocate with simulation'
 
 ## Contributing 
 
@@ -85,7 +85,7 @@ For further examples of these you can check example files:
 
 ## Javascript Coding Guidelines
 
-My first rule of thumb is "Keep it simple, stupid!". So, please take a look at Google JavaScript Style Guide (http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
+My first rule of thumb is "Keep it simple, stupid#". So, please take a look at Google JavaScript Style Guide (http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
 
 ## Contributors
 
@@ -102,4 +102,4 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. 
